@@ -7,4 +7,4 @@
 # Jogo da Velha criado em Unity
 
 ## Integrantes:
-## Gabriel Henrique Coelho Marussi RA: 24026609; Arthur Rodrigues Ferreira RA: 24026567; Vinicius dos Santos Ribeiro RA: 24025961; Lucas Oliveira RA: ; Matheus Rossaneze Ramos Silva RA: 24026354; Pedro Schaurich Maia RA: 24026011; Lucas Oliveira da Silva RA:24025988
+## Gabriel Marussi RA: 24026609; Arthur Rodrigues Ferreira RA: 24026567; Vinicius dos Santos Ribeiro RA: 24025961; Lucas Oliveira RA:; Matheus Rossaneze Ramos Silva RA: 24026354; Pedro Schaurich Maia RA: 24026011; Lucas Oliveira da Silva RA:24025988.
