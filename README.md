@@ -7,10 +7,4 @@
 # Jogo da Velha
 Jogo da velha desenvolvido em grupo usando a linguagem C# dentro da plataforma Unity.
 
-## Integrantes:
-Gabriel Marussi - RA: 24026609<br>
-Arthur Rodrigues - RA: 24026567<br>
-Vinicius dos Santos - RA: 24025961<br> 
-Matheus Rossaneze - RA: 24026354<br>
-Pedro Schaurich Maia - RA: 24026011<br>
-Lucas Oliveira da Silva - RA:24025988
+## Integrantes: <br> Gabriel Marussi - RA: 24026609<br> Arthur Rodrigues - RA: 24026567<br> Vinicius dos Santos - RA: 24025961<br> Matheus Rossaneze - RA: 24026354<br> Pedro Schaurich Maia - RA: 24026011<br> Lucas Oliveira da Silva - RA:24025988
