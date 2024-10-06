@@ -28,3 +28,8 @@ Algumas caracteristicas eram necesárias ao projeto para que valessem mais ponto
 * Jogo para 1 jogador local.
 * Interface gráfica e Menu incluso.
 * Inteligência Artificial imbatível.
+
+## Como Jogar:
+
+Baixe a plataforma <a href="https://unity.com/pt/download">Unity</a> e baixar a <a href="https://unity.com/releases/editor/whats-new/2022.3.10">versão 2022.3.10</a> para não haver erros.
+Logo abre a cena dentro da "Scenes" e rode o jogo, ao finalizar a partida o reinicie e poderá jogar novamente, fique à vontede para passar "raiva" com a nossa IA.
