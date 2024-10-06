@@ -14,6 +14,7 @@ Matheus Rossaneze - RA: 24026354<br>
 Pedro Schaurich Maia - RA: 24026011<br>
 Lucas Oliveira da Silva - RA: 24025988
 
+##
 ## Professores Orientadores: <a href= "https://www.linkedin.com/in/victorbarq">Victor Bruno Alexander Rosetti de Quiroz</a>
 
 ## Descrição:
